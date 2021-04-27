@@ -44,8 +44,7 @@ affiliation(s)
 email
 affiliation(s)
 #### Erika Tucker
-email
-affiliation(s)
+EMTuckerLab@gmail.com
 #### Maureen Turcatel
 email
 affiliation(s)
